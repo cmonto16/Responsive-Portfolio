@@ -1,1 +1,2 @@
 # Responsive-Portfolio
+My portfolio to show what I have created and projects that I have been a part of. There is an about me section, portfolio section that shows some of my work I have done and a contact page.
